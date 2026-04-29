@@ -1,0 +1,7 @@
+Region,Price,Year,Status,Bedrooms
+North Andover,650000,2024,Sold,3
+Denton,450000,2024,Pending,4
+Chicago,520000,2023,Sold,2
+Boston,850000,2024,Sold,3
+North Andover,650000,2024,Sold,3
+Dallas,500000,2024,Sold,Invalid
